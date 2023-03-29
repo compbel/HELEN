@@ -1,9 +1,14 @@
 # HELEN
-(Heralding Emerging Lineages in Epistatic Network)
+## Heralding Emerging Lineages in Epistatic Network
 
 A computational framework for identifying epistatically linked sets of SAV alleles and merging them into haplotypes using statistical inference, population genetics, and graph theory.
 
-# Pre-requisites:
+## Algorithm:
+
+HELEN (Heralding Emerging Lineages in Epistatic Networks): a computational framework for inference of viral variants as dense communities in epistatic networks
+
+
+## Pre-requisites:
    - Matlab
    - Gurobi
 
