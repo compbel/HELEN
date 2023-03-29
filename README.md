@@ -46,6 +46,7 @@ In addition, the repository contains the following data and scripts performing s
    input:  
    - ``M`` - 	mutation matrix
    - ``rho`` -   p-value for detection of epistatically linked pairs
+   
    output: 
    - ``E`` - 	list of edges of the constructed epistatic network
 		
@@ -54,6 +55,7 @@ In addition, the repository contains the following data and scripts performing s
    input:  
    - ``G`` -	epistatic network (as a graph object)
    - ``k_min``, ``k_max``, ``nSol``, ``timeLimit``, ``outdirRes``, ``outToken`` - see above
+   
    output: see above
 
 3) ``run_analysis`` : a script that generates the data and analysis results used in the paper "Mohebbi, Zelikovsky, Mangul, Chowell,
