@@ -4,7 +4,7 @@
 A computational framework for identifying epistatically linked sets of SAV alleles and merging them into haplotypes using statistical inference, population genetics, and graph theory.
 
 ## Algorithm:
-![alt text](/img/algFlow.pdf)
+![alt text](/img/algFlow.png)
 
 HELEN (Heralding Emerging Lineages in Epistatic Networks): a computational framework for inference of viral variants as dense communities in epistatic networks
 
