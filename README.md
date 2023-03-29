@@ -35,21 +35,22 @@ Skums, Community structure and temporal dynamics of SARS-CoV-2 epistatic network
 ## Additional notes
 In addition, the repository contains the following data and scripts performing specific subroutines:
 
-1) E = constructEpisNetwork(M,rho) : a script that construct epistatic networks from genomic data
-   input:  M	mutation matrix
-	   rho  p-value for detection of epistatically linked pairs
-   output: E	list of edges of the constructed epistatic network
+1) ``E = constructEpisNetwork(M,rho)`` : a script that construct epistatic networks from genomic data
+
+   input:  - ``M`` - 	mutation matrix
+	   - ``rho`` -   p-value for detection of epistatically linked pairs
+   output: - ``E`` - 	list of edges of the constructed epistatic network
 		
-2) [varInfer, vocSupport] = HELEN_infer(G,k_min,k_max,nSol,timeLimit,outdirRes,outToken): a script that infers viral variants from the epistatic network G
-   input:  G	epistatic network (as a graph object)
-	   k_min,k_max,nSol,timeLimit,outdirRes,outToken - see above
+2) ``[varInfer, vocSupport] = HELEN_infer(G,k_min,k_max,nSol,timeLimit,outdirRes,outToken)``: a script that infers viral variants from the epistatic network G
+
+   input:  - ``G`` -	epistatic network (as a graph object)
+	   - ``k_min,k_max,nSol,timeLimit,outdirRes,outToken`` -  - see above
    output: see above
 
-3) run_analysis : a script that generates the data and analysis results used in the paper "Mohebbi, Zelikovsky, Mangul, Chowell,
+3) ``run_analysis`` : a script that generates the data and analysis results used in the paper "Mohebbi, Zelikovsky, Mangul, Chowell,
 		Skums, Community structure and temporal dynamics of SARS-CoV-2 epistatic network allows for early detection of emerging variants with altered phenotypes"
 
-4) collectResDrawPlotsSamp, collectResDrawPlotsDensest, collectResDrawPlotsInfer : scripts that generate plots with the analysis results for sampling-based p-values,
-   densest subnetworks and haplotype inference used in the paper
+4) ``collectResDrawPlotsSamp``, ``collectResDrawPlotsDensest``, ``collectResDrawPlotsInfer``: scripts that generate plots with the analysis results for sampling-based p-values, densest subnetworks and haplotype inference used in the paper
 
 5) HELEN data	: secondary data generated for the paper
 
