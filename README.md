@@ -10,7 +10,7 @@ A computational framework for identifying epistatically linked sets of SAV allel
 ## Instructions:
 
 The main script is 
-[vocInfer, vocSupport] = HELEN_run(fastafile,fastaref,k_min,k_max,nSol,timeLimit,outdirRes,outToken)
+``[vocInfer, vocSupport] = HELEN_run(fastafile,fastaref,k_min,k_max,nSol,timeLimit,outdirRes,outToken)``
 
 input:  
 - ``fastafile`` -      fasta file with aligned viral sequences
@@ -37,14 +37,17 @@ In addition, the repository contains the following data and scripts performing s
 
 1) ``E = constructEpisNetwork(M,rho)`` : a script that construct epistatic networks from genomic data
 
-   input:  - ``M`` - 	mutation matrix
-	   - ``rho`` -   p-value for detection of epistatically linked pairs
-   output: - ``E`` - 	list of edges of the constructed epistatic network
+   input:  
+   - ``M`` - 	mutation matrix
+   - ``rho`` -   p-value for detection of epistatically linked pairs
+   output: 
+   - ``E`` - 	list of edges of the constructed epistatic network
 		
 2) ``[varInfer, vocSupport] = HELEN_infer(G,k_min,k_max,nSol,timeLimit,outdirRes,outToken)``: a script that infers viral variants from the epistatic network G
 
-   input:  - ``G`` -	epistatic network (as a graph object)
-	   - ``k_min,k_max,nSol,timeLimit,outdirRes,outToken`` -  - see above
+   input:  
+   - ``G`` -	epistatic network (as a graph object)
+   - ``k_min,k_max,nSol,timeLimit,outdirRes,outToken`` -  - see above
    output: see above
 
 3) ``run_analysis`` : a script that generates the data and analysis results used in the paper "Mohebbi, Zelikovsky, Mangul, Chowell,
