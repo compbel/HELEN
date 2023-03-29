@@ -62,4 +62,3 @@ In addition, the repository contains the following data and scripts performing s
 4) ``collectResDrawPlotsSamp``, ``collectResDrawPlotsDensest``, ``collectResDrawPlotsInfer``: scripts that generate plots with the analysis results for sampling-based p-values, densest subnetworks and haplotype inference used in the paper
 
 5) HELEN data	: secondary data generated for the paper
-
