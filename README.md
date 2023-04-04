@@ -1,6 +1,4 @@
-# HELEN
-
-**Heralding Emerging Lineages in Epistatic Network**
+# HELEN (Heralding Emerging Lineages in Epistatic Network)
 
 A computational framework for identifying epistatically linked sets of SAV alleles and merging them into haplotypes using statistical inference, population genetics, and graph theory.
 
