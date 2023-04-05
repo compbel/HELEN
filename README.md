@@ -64,7 +64,14 @@ In addition, the repository contains the following data and scripts performing s
 
 5) HELEN data	: secondary data generated for the paper
 
-## Date:
+## Data:
+Genomic data and associated metadata analyzed in this study was obtained from GISAID[^1].
 The datasets we used in the analyses of SARS-CoV-2 epistatic networks can be downloaded from the following link:
 
 https://www.dropbox.com/scl/fo/oz2uktjx17z1jamujmciu/h?dl=0&rlkey=ib94fzbzfg9riiqprfuzw34xh
+
+## Acknowledgements
+
+We gratefully acknowledge all data contributors, i.e., the Authors and their Originating laboratories responsible for obtaining the specimens, and their Submitting laboratories for generating the genetic sequence and metadata and sharing via the GISAID Initiative, on which this research is based. The provided GISAID supplemental table includes a DOI where you can find all the associated Authors and their originating laboratories.
+
+[^1]: Khare, S., et al (2021) GISAID’s Role in Pandemic Response. China CDC Weekly, 3(49): 1049-1051. doi: 10.46234/ccdcw2021.255 PMCID: 8668406
