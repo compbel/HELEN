@@ -47,3 +47,12 @@ In addition, the repository contains the following data and scripts performing s
 
 5) HELEN data	: secondary data generated for the paper
 
+Genomic data and associated metadata analyzed in this study were obtained from GISAID[^1].
+The datasets we used in the analyses of SARS-CoV-2 epistatic networks can be downloaded from the following links, the links contain data from the complete dataset, the first truncated dataset, and the second truncated dataset respectively:
+
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata1&ga=1
+
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata2&ga=1
+
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata3&ga=1
+
