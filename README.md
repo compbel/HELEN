@@ -60,15 +60,19 @@ In addition, the repository contains the following data and scripts performing s
 3) ``run_analysis`` : a script that generates the data and analysis results used in the paper "Mohebbi, Zelikovsky, Mangul, Chowell,
 		Skums, Community structure and temporal dynamics of SARS-CoV-2 epistatic network allows for early detection of emerging variants with altered phenotypes"
 
-4) ``collectResDrawPlotsSamp``, ``collectResDrawPlotsDensest``, ``collectResDrawPlotsInfer``: scripts that generate plots with the analysis results for sampling-based p-values, densest subnetworks and haplotype inference used in the paper
+4) ``collectResDrawPlotsSamp``, ``collectResDrawPlotsDensest``, ``collectResDrawPlotsInfer``: scripts that generate plots with the analysis results for sampling-based p-values, densest subnetworks, and haplotype inference used in the paper
 
-5) HELEN data	: secondary data generated for the paper
+5) HELEN data : secondary data generated for the paper
 
 ## Data:
-Genomic data and associated metadata analyzed in this study was obtained from GISAID[^1].
-The datasets we used in the analyses of SARS-CoV-2 epistatic networks can be downloaded from the following link:
+Genomic data and associated metadata analyzed in this study were obtained from GISAID[^1].
+The datasets we used in the analyses of SARS-CoV-2 epistatic networks can be downloaded from the following links, the links contain data from the complete dataset, the first truncated dataset, and the second truncated dataset respectively:
 
-https://www.dropbox.com/scl/fo/oz2uktjx17z1jamujmciu/h?dl=0&rlkey=ib94fzbzfg9riiqprfuzw34xh
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata1&ga=1
+
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata2&ga=1
+
+https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata3&ga=1
 
 ## Acknowledgements:
 We gratefully acknowledge all data contributors, i.e., the Authors and their Originating laboratories responsible for obtaining the specimens, and their Submitting laboratories for generating the genetic sequence and metadata and sharing via the GISAID Initiative, on which this research is based. The provided GISAID supplemental table includes a DOI where you can find all the associated authors and their originating laboratories.
