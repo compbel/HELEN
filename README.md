@@ -74,6 +74,9 @@ https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedr
 
 https://uconn-my.sharepoint.com/personal/pavel_skums_uconn_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpavel%5Fskums%5Fuconn%5Fedu%2FDocuments%2FMatlab%2FHELEN%20release%2FHELEN%5Fdata3&ga=1
 
+## Citation:
+Mohebbi, F., Zelikovsky, A., Mangul, S., Chowell, G., & Skums, P. (2024). Early detection of emerging viral variants through analysis of community structure of coordinated substitution networks. Nature Communications, 15(1), 2838.
+
 ## Acknowledgements:
 We gratefully acknowledge all data contributors, i.e., the Authors and their Originating laboratories responsible for obtaining the specimens, and their Submitting laboratories for generating the genetic sequence and metadata and sharing via the GISAID Initiative, on which this research is based. The provided GISAID supplemental table includes a DOI where you can find all the associated authors and their originating laboratories.
 
